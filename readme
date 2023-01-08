@@ -1,2 +1,3 @@
 GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer.
 Fungsi dari github untuk layanan berbasis cloud yang membantu developer menyimpan dan mengelola kode yang dibuat, serta melacak dan mengontrol perubahan pada kode tersebut. GitHub mencakup dua prinsip, yaitu version control dan Git.
+git checkout master
